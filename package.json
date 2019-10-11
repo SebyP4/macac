@@ -1,7 +1,7 @@
 {
   "name": "asa",
   "version": "1.0.0",
-  "description": "a",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^11.5.1"
